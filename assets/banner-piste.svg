@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Grenoble Roller banner - skating track">
+  <defs>
+    <linearGradient id="grBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e1a2b"/>
+      <stop offset="100%" stop-color="#17263d"/>
+    </linearGradient>
+    <linearGradient id="grTrack" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6285A4" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#6285A4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6285A4" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grBg)"/>
+  <g fill="none" stroke="url(#grTrack)" stroke-width="10">
+    <ellipse cx="600" cy="270" rx="560" ry="120" opacity="0.85"/>
+    <ellipse cx="600" cy="280" rx="470" ry="95" opacity="0.57"/>
+    <ellipse cx="600" cy="290" rx="380" ry="70" opacity="0.2899999999999999"/>
+  </g>
+  <g fill="none" stroke="#8fb3d0" stroke-width="2" stroke-dasharray="10 14" opacity="0.35">
+    <ellipse cx="600" cy="270" rx="515" ry="105"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="300" cy="208" r="5"/>
+    <circle cx="760" cy="172" r="5"/>
+    <circle cx="940" cy="235" r="5"/>
+    <circle cx="430" cy="245" r="5"/>
+  </g>
+  <g fill="#8fb3d0" opacity="0.06">
+    <ellipse cx="600" cy="30" rx="500" ry="60"/>
+  </g>
+</svg>
